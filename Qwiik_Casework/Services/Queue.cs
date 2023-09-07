@@ -15,6 +15,12 @@ namespace Qwiik_Casework.Services
 		public void Add(int i)
 		{
 			Node newNode = new Node(i);
+			if (head is null)
+			{
+				head = newNode;
+				tail = newNode;
+            }
+
 			tail.next = newNode;
 			tail = newNode;
 		}

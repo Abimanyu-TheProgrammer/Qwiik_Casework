@@ -11,7 +11,7 @@ namespace Qwiik_Casework.Services
             queue.Add(2);
             queue.Remove();
 
-            return string.Format("In front of the Queue: %s", queue.Peek());
+            return string.Format("In front of the Queue: {0}", queue.Peek());
         }
     }
 }
