@@ -2,24 +2,7 @@
 Azure Link: [qwiik-casework.azurewebsites.net](qwiik-casework.azurewebsites.net) <br>
 
 ## Description
-This is the implementation of the Data Structures and Functions specified in the casework PDF:
-
-• Function to accept three sides of a triangle and returns the type of triangle i.e., isosceles, equilateral etc.<br>
-• Function to accept a number and generate the Fibonacci series till that number.<br>
-• Implement Queue in C# and suggest its usage.<br>
-• Implement QuickSort algorithm and calculate the complexity.<br>
-
-With these demonstration points:
-
-• Introduce separation of concerns between Business and Web layer<br>
-• Leverage third party libraries using NuGet<br>
-• Make classes ready for IoC/DI which can later be used, e.g. Autofac<br>
-• Simplify code with LINQ<br>
-• Create API documentation using Swagger.<br>
-• Write Unit Tests<br>
-• Use WebAPI for web services.<br>
-• Use Azure cloud hosting to manage and host Web API projects.<br>
-• Practice source control using GitHub.<br>
+This is the implementation of the Data Structures and Functions specified in the casework PDF
 
 ## Notes:
 • Usage suggestion of Queue and the complexity of QuickSort is in the API Documentation, in the summary section of the routes.<br>
